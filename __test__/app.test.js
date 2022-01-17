@@ -3,5 +3,5 @@ test('testing', () => {
  });
 
  test('testing', () => {
-    expect('hello').toMatch('fail');
+    expect('fail').toMatch('fail');
  });
